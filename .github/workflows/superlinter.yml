@@ -27,4 +27,4 @@ jobs:
       - name: Super-Linter
         uses: github/super-linter@v4.8.1
         env:
-         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          VALIDATE_CSHARP: true
