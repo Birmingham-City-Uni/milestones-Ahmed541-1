@@ -1,0 +1,982 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.6f1 (338bb68529b2) revision 3378102'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Enterprise; OS build 19042.1110; Version 2009; 64bit' Language: 'en' Physical Memory: 16218 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity2020.3.6f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+V:/New Unity Project
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+55298
+Successfully changed project path to: V:/New Unity Project
+V:/New Unity Project
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 55.58 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.6f1 (338bb68529b2)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity2020.3.6f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path V:/New Unity Project/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA Quadro P2000 (ID=0x1c30)
+    Vendor:   
+    VRAM:     5032 MB
+    Driver:   30.0.14.7111
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity2020.3.6f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity2020.3.6f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity2020.3.6f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56380
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity2020.3.6f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity2020.3.6f1/Editor/Data/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Register platform support module: C:/Program Files/Unity2020.3.6f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Register platform support module: C:/Program Files/Unity2020.3.6f1/Editor/Data/PlaybackEngines/LinuxStandaloneSupport/UnityEditor.LinuxStandalone.Extensions.dll
+Register platform support module: C:/Program Files/Unity2020.3.6f1/Editor/Data/PlaybackEngines/LuminSupport/UnityEditor.Lumin.Extensions.dll
+Registered in 0.004949 seconds.
+Native extension for Lumin target not found
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 24.04 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.409 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.000774 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for Lumin target not found
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.23 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+[ScriptCompilation] NOT recompiling all scripts because this is an import worker process. Reason to compile was: Define symbols changed
+Mono: successfully reloaded assembly
+- Completed reload, in  0.785 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.05 seconds
+Refreshing native plugins compatible for Editor in 0.25 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1481 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 73.3 MB.
+System memory in use after: 73.4 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 1928.
+Total: 2.459800 ms (FindLiveObjects: 0.506000 ms CreateObjectMapping: 0.159300 ms MarkObjects: 1.725100 ms  DeleteObjects: 0.067000 ms)
+
+========================================================================
+Received Import Request.
+  path: Packages/com.unity.xr.legacyinputhelpers/Prefabs/XRRig.prefab
+  artifactKey: Guid(c116b7497ab8ca34c9188965d4295e27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.xr.legacyinputhelpers/Prefabs/XRRig.prefab using Guid(c116b7497ab8ca34c9188965d4295e27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '113642b6930b0beff39889fe1516fc16') in 0.034599 seconds
+  Import took 0.036883 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004789 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for Lumin target not found
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.49 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.931 seconds
+Platform modules already initialized, skipping
+Shader 'TextMeshPro/Distance Field': fallback shader 'TextMeshPro/Mobile/Distance Field' not found
+Refreshing native plugins compatible for Editor in 0.41 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1634 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 79.4 MB.
+System memory in use after: 77.5 MB.
+
+Unloading 24 unused Assets to reduce memory usage. Loaded Objects now: 2100.
+Total: 2.424000 ms (FindLiveObjects: 0.150100 ms CreateObjectMapping: 0.059100 ms MarkObjects: 1.356700 ms  DeleteObjects: 0.857100 ms)
+
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 1.84 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 21 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 47.4 MB.
+System memory in use after: 45.4 MB.
+
+Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 2100.
+Total: 3.600500 ms (FindLiveObjects: 0.237100 ms CreateObjectMapping: 0.069200 ms MarkObjects: 2.126100 ms  DeleteObjects: 1.166200 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 401.460663 seconds.
+  path: Assets/2DGamekit/Prefabs/Environment/Acid.prefab
+  artifactKey: Guid(3aa03ae1689a947448e3ea2b622614f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2DGamekit/Prefabs/Environment/Acid.prefab using Guid(3aa03ae1689a947448e3ea2b622614f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c48b3fb8e324a99a749c9ba36bd01ca3') in 0.029440 seconds
+  Import took 0.032031 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000261 seconds.
+  path: Assets/2DGamekit/Prefabs/VFX/Enemies/Gunner/GunnerBeamEffect.prefab
+  artifactKey: Guid(296b19e4ad513154e9aa7cff2f759a1e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2DGamekit/Prefabs/VFX/Enemies/Gunner/GunnerBeamEffect.prefab using Guid(296b19e4ad513154e9aa7cff2f759a1e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a9d2e39798c8ed3d5a80ea65547dd76d') in 0.161667 seconds
+  Import took 0.164305 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000211 seconds.
+  path: Assets/2DGamekit/Prefabs/Interactables/Bridge.prefab
+  artifactKey: Guid(a895c7cedf6851f4380f2a35df8d219a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2DGamekit/Prefabs/Interactables/Bridge.prefab using Guid(a895c7cedf6851f4380f2a35df8d219a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '22a7f025fa1fe88f09748d2b421120a2') in 0.184009 seconds
+  Import took 0.186910 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000208 seconds.
+  path: Assets/2DGamekit/Prefabs/VFX/Enemies/Chomper/ChomperDie.prefab
+  artifactKey: Guid(61a6972b233f54246b0d0c15eabfb857) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2DGamekit/Prefabs/VFX/Enemies/Chomper/ChomperDie.prefab using Guid(61a6972b233f54246b0d0c15eabfb857) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '63fa2b1e43414a20ee1348e558a35461') in 0.003793 seconds
+  Import took 0.006075 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000298 seconds.
+  path: Assets/2DGamekit/Prefabs/VFX/Ellen/EllenHurt.prefab
+  artifactKey: Guid(64b0b5135e518aa4fbd439bfa5a1b3ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2DGamekit/Prefabs/VFX/Ellen/EllenHurt.prefab using Guid(64b0b5135e518aa4fbd439bfa5a1b3ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4dba6d94063d70052c315b5e09c134bf') in 0.004068 seconds
+  Import took 0.006616 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000206 seconds.
+  path: Assets/2DGamekit/Prefabs/VFX/Enemies/Gunner/GunnerGrenade.prefab
+  artifactKey: Guid(2ac3d03c4b22fb24a9d186e58a291f57) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2DGamekit/Prefabs/VFX/Enemies/Gunner/GunnerGrenade.prefab using Guid(2ac3d03c4b22fb24a9d186e58a291f57) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c7138041219ce2c9284c1e7416aa166e') in 0.017190 seconds
+  Import took 0.020005 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000226 seconds.
+  path: Assets/2DGamekit/Prefabs/VFX/Enemies/Gunner/GunnerProjectileFire.prefab
+  artifactKey: Guid(62e2325fb41250c478144a6d6d028060) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2DGamekit/Prefabs/VFX/Enemies/Gunner/GunnerProjectileFire.prefab using Guid(62e2325fb41250c478144a6d6d028060) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '10358116887c75b2b0088213c615cc0d') in 0.004324 seconds
+  Import took 0.007382 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000311 seconds.
+  path: Assets/2DGamekit/Prefabs/VFX/Enemies/Gunner/GunnerDamage.prefab
+  artifactKey: Guid(d5a14f17f544e6c4db02c9bdfbb9b1b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2DGamekit/Prefabs/VFX/Enemies/Gunner/GunnerDamage.prefab using Guid(d5a14f17f544e6c4db02c9bdfbb9b1b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd71c52e82b5a2642ef9b70140ba65ae0') in 0.005755 seconds
+  Import took 0.009292 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000264 seconds.
+  path: Assets/2DGamekit/Prefabs/VFX/Enemies/Gunner/GunnerProjectileHit.prefab
+  artifactKey: Guid(ebf7ed0a9a9a50e498db0703765a94a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2DGamekit/Prefabs/VFX/Enemies/Gunner/GunnerProjectileHit.prefab using Guid(ebf7ed0a9a9a50e498db0703765a94a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '164a0e2ecf61c9405946a67c6c4bb707') in 0.004015 seconds
+  Import took 0.006554 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000244 seconds.
+  path: Assets/2DGamekit/Prefabs/VFX/Ellen/EllenHurt2.prefab
+  artifactKey: Guid(85707e6160ceaa84697a396f632788f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2DGamekit/Prefabs/VFX/Ellen/EllenHurt2.prefab using Guid(85707e6160ceaa84697a396f632788f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c154289c6546e72b904e018d8271f46e') in 0.045769 seconds
+  Import took 0.048679 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000247 seconds.
+  path: Assets/2DGamekit/Prefabs/VFX/Environment/BlueMotes.prefab
+  artifactKey: Guid(4c916d2207d2300418a5957aa19521d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2DGamekit/Prefabs/VFX/Environment/BlueMotes.prefab using Guid(4c916d2207d2300418a5957aa19521d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '643fdd96a4dbfd72c9a1f69bec63dedf') in 0.003884 seconds
+  Import took 0.006658 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000330 seconds.
+  path: Assets/2DGamekit/Prefabs/Ellen.prefab
+  artifactKey: Guid(73360cdb4e1e7ed4897690f9d57fd0eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2DGamekit/Prefabs/Ellen.prefab using Guid(73360cdb4e1e7ed4897690f9d57fd0eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f046ef2c54c7f822095aa5f0a0c240c7') in 0.084791 seconds
+  Import took 0.088738 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000270 seconds.
+  path: Assets/2DGamekit/Prefabs/VFX/Environment/GrassPuff.prefab
+  artifactKey: Guid(27ab20378afc6044fa7e280ace3536a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2DGamekit/Prefabs/VFX/Environment/GrassPuff.prefab using Guid(27ab20378afc6044fa7e280ace3536a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '23fb7febdbf8190cafcc756f2d2ade74') in 0.004483 seconds
+  Import took 0.007421 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000305 seconds.
+  path: Assets/2DGamekit/Prefabs/VFX/Enemies/Gunner/GunnerHitDamage.prefab
+  artifactKey: Guid(b3bb281a13618314da45e7c0d01d9f5f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2DGamekit/Prefabs/VFX/Enemies/Gunner/GunnerHitDamage.prefab using Guid(b3bb281a13618314da45e7c0d01d9f5f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f6ff7271f8101189baa48291408fde0c') in 0.004959 seconds
+  Import took 0.007893 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000262 seconds.
+  path: Assets/2DGamekit/Prefabs/Enemies/Chomper.prefab
+  artifactKey: Guid(9a2f32836e0e10248b425c273622a735) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2DGamekit/Prefabs/Enemies/Chomper.prefab using Guid(9a2f32836e0e10248b425c273622a735) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cb4e3c8943d90e2df0a68c07a87b0bf9') in 0.017513 seconds
+  Import took 0.020764 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000284 seconds.
+  path: Assets/2DGamekit/Prefabs/Interactables/Door.prefab
+  artifactKey: Guid(d3dff3eb072b76f4daa75549e62b7bda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2DGamekit/Prefabs/Interactables/Door.prefab using Guid(d3dff3eb072b76f4daa75549e62b7bda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f08b72e09afc7cc22b0226a3eaac7dac') in 0.047004 seconds
+  Import took 0.050639 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000210 seconds.
+  path: Assets/2DGamekit/Prefabs/VFX/Environment/Fireflies.prefab
+  artifactKey: Guid(afb89849ba0bcd141814c33c753a935b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2DGamekit/Prefabs/VFX/Environment/Fireflies.prefab using Guid(afb89849ba0bcd141814c33c753a935b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '630d93c1c3d96822a6afe20c52caa305') in 0.003832 seconds
+  Import took 0.006113 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000244 seconds.
+  path: Assets/2DGamekit/Prefabs/Enemies/EnemySpawner.prefab
+  artifactKey: Guid(5ae094758896c0b45b352d4b01916822) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2DGamekit/Prefabs/Enemies/EnemySpawner.prefab using Guid(5ae094758896c0b45b352d4b01916822) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9e2d7c7428ed30dba4ff3e7e463c85ea') in 0.007590 seconds
+  Import took 0.010677 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000235 seconds.
+  path: Assets/2DGamekit/Prefabs/VFX/Enemies/Gunner/GunnerLightning.prefab
+  artifactKey: Guid(0fce9aca7785d364a90b48c98c3a51b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2DGamekit/Prefabs/VFX/Enemies/Gunner/GunnerLightning.prefab using Guid(0fce9aca7785d364a90b48c98c3a51b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3314ffb913122f4dbf3eeb46dbee4a80') in 0.005552 seconds
+  Import took 0.008251 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000221 seconds.
+  path: Assets/2DGamekit/Prefabs/Interactables/DestructableColumn.prefab
+  artifactKey: Guid(c57359a20b483084f9310f1d0b46f64a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2DGamekit/Prefabs/Interactables/DestructableColumn.prefab using Guid(c57359a20b483084f9310f1d0b46f64a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '10da82bfbdbadcbdc1ff4f800104640a') in 0.263618 seconds
+  Import took 0.267148 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000244 seconds.
+  path: Assets/2DGamekit/Prefabs/VFX/Environment/DustPuff.prefab
+  artifactKey: Guid(ca91f9a8283f57042830bdc02fa84302) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2DGamekit/Prefabs/VFX/Environment/DustPuff.prefab using Guid(ca91f9a8283f57042830bdc02fa84302) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0eb2b27298f8c4a305fbb097cc12f6ee') in 0.004726 seconds
+  Import took 0.007891 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000198 seconds.
+  path: Assets/2DGamekit/Prefabs/Interactables/DestructableWall.prefab
+  artifactKey: Guid(34e51d4f11580144b99436db7c78b5dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2DGamekit/Prefabs/Interactables/DestructableWall.prefab using Guid(34e51d4f11580144b99436db7c78b5dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f1a90c17f7bc10155124e636e425f195') in 0.018678 seconds
+  Import took 0.022160 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000204 seconds.
+  path: Assets/2DGamekit/Prefabs/VFX/Ellen/EllenDeath.prefab
+  artifactKey: Guid(4e4d2ff5369121544b93398086397215) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2DGamekit/Prefabs/VFX/Ellen/EllenDeath.prefab using Guid(4e4d2ff5369121544b93398086397215) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8bda8fc5c0b75d198b993b08209c6536') in 0.005266 seconds
+  Import took 0.009184 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000225 seconds.
+  path: Assets/2DGamekit/Prefabs/VFX/Ellen/GunMuzzleFlash.prefab
+  artifactKey: Guid(2b7a2e498fd198541a255cf07be4e057) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2DGamekit/Prefabs/VFX/Ellen/GunMuzzleFlash.prefab using Guid(2b7a2e498fd198541a255cf07be4e057) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ac0fc4277113d346c0ebee67705b0120') in 0.005818 seconds
+  Import took 0.009354 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000205 seconds.
+  path: Assets/2DGamekit/Prefabs/VFX/Ellen/EllenDeath2.prefab
+  artifactKey: Guid(9e338b4c54ba94d49abce741fc8a30d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2DGamekit/Prefabs/VFX/Ellen/EllenDeath2.prefab using Guid(9e338b4c54ba94d49abce741fc8a30d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'edab99402ed104ab16b19aeb87d7e923') in 0.012840 seconds
+  Import took 0.015845 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000228 seconds.
+  path: Assets/2DGamekit/Prefabs/VFX/Enemies/Gunner/GunnerProjectile.prefab
+  artifactKey: Guid(7cca00a010a54534493450e42c76b7bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2DGamekit/Prefabs/VFX/Enemies/Gunner/GunnerProjectile.prefab using Guid(7cca00a010a54534493450e42c76b7bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fe4883d42eef17f158cd9ac01a28a540') in 0.013342 seconds
+  Import took 0.016136 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000210 seconds.
+  path: Assets/2DGamekit/Prefabs/SceneControl/Checkpoint.prefab
+  artifactKey: Guid(448ee8ad87a7f9f43b099285036e8bfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2DGamekit/Prefabs/SceneControl/Checkpoint.prefab using Guid(448ee8ad87a7f9f43b099285036e8bfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '002b4ab2fbc30bf5f62309cde7390c01') in 0.003867 seconds
+  Import took 0.006399 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000371 seconds.
+  path: Assets/2DGamekit/Prefabs/UIPrefabs/DialogueCanvas.prefab
+  artifactKey: Guid(114c5f41fd4099445a42c1d9bd01f222) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2DGamekit/Prefabs/UIPrefabs/DialogueCanvas.prefab using Guid(114c5f41fd4099445a42c1d9bd01f222) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3dcf8942cac28edcfb3c20df61bc4a59') in 0.047675 seconds
+  Import took 0.050646 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000162 seconds.
+  path: Assets/2DGamekit/Prefabs/Audio/BackgroundMusicPlayer.prefab
+  artifactKey: Guid(9c48d4101c920ef47a787da13f097d90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2DGamekit/Prefabs/Audio/BackgroundMusicPlayer.prefab using Guid(9c48d4101c920ef47a787da13f097d90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dffdc272e12a28bef1bca5b9980790cc') in 0.004960 seconds
+  Import took 0.007280 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000209 seconds.
+  path: Assets/2DGamekit/Prefabs/VFX/Ellen/BulletImpact.prefab
+  artifactKey: Guid(8b019aae9fde32e41aa6181013f53be2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2DGamekit/Prefabs/VFX/Ellen/BulletImpact.prefab using Guid(8b019aae9fde32e41aa6181013f53be2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd18195c14cc13a4885b20fe0724a1275') in 0.004124 seconds
+  Import took 0.007041 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000187 seconds.
+  path: Assets/2DGamekit/Prefabs/VFX/Enemies/Chomper/ChomperBiteEffect.prefab
+  artifactKey: Guid(36e8cdbcd42e8104cb2a7e06368f23e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2DGamekit/Prefabs/VFX/Enemies/Chomper/ChomperBiteEffect.prefab using Guid(36e8cdbcd42e8104cb2a7e06368f23e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c17066c5de9aa0b9743acad30cfea745') in 0.010031 seconds
+  Import took 0.014210 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000203 seconds.
+  path: Assets/2DGamekit/Prefabs/UIPrefabs/GameOverCanvas.prefab
+  artifactKey: Guid(2cb597c059c0637489d7a3309e26cb52) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2DGamekit/Prefabs/UIPrefabs/GameOverCanvas.prefab using Guid(2cb597c059c0637489d7a3309e26cb52) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '05ba76b58ea266e0bc1bb5fbf2b4d288') in 0.006832 seconds
+  Import took 0.009496 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000201 seconds.
+  path: Assets/2DGamekit/Prefabs/VFX/Ellen/Bullet.prefab
+  artifactKey: Guid(4593cdd83a432764aac5e418b812b3e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2DGamekit/Prefabs/VFX/Ellen/Bullet.prefab using Guid(4593cdd83a432764aac5e418b812b3e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fecbad2c1c5671a650def74f668d72d1') in 0.065880 seconds
+  Import took 0.068307 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 603.156943 seconds.
+  path: Assets/2DGamekit/Prefabs/VFX/Enemies/Gunner/GunnerShield.prefab
+  artifactKey: Guid(4ba44c764bf20fc4c88a7a42dca61256) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2DGamekit/Prefabs/VFX/Enemies/Gunner/GunnerShield.prefab using Guid(4ba44c764bf20fc4c88a7a42dca61256) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9564af3d4002f75aefaad45d2ee9db1a') in 0.070198 seconds
+  Import took 0.073235 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000280 seconds.
+  path: Assets/2DGamekit/Prefabs/UIPrefabs/KeyIcon.prefab
+  artifactKey: Guid(87b9fdd795c49ed45b705002b45185f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2DGamekit/Prefabs/UIPrefabs/KeyIcon.prefab using Guid(87b9fdd795c49ed45b705002b45185f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd1dfd75aa2279a4c93bc3cc910e7b0d0') in 0.003772 seconds
+  Import took 0.006189 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000276 seconds.
+  path: Assets/2DGamekit/Prefabs/VFX/Interactables/HealingEffect.prefab
+  artifactKey: Guid(22d975de71983884ea3e0dcc57424749) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2DGamekit/Prefabs/VFX/Interactables/HealingEffect.prefab using Guid(22d975de71983884ea3e0dcc57424749) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1bfe9c240519e6f5e17445ecce4e6e09') in 0.003649 seconds
+  Import took 0.005842 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000276 seconds.
+  path: Assets/2DGamekit/Prefabs/VFX/Enemies/Gunner/GunnerShieldHit.prefab
+  artifactKey: Guid(c5f99beb88686a342b1d3a911e99f8c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2DGamekit/Prefabs/VFX/Enemies/Gunner/GunnerShieldHit.prefab using Guid(c5f99beb88686a342b1d3a911e99f8c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2ebcd530b16321a4a2ed01bba2da09fd') in 0.004459 seconds
+  Import took 0.007488 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000291 seconds.
+  path: Assets/2DGamekit/Prefabs/Interactables/PassThroughPlatform.prefab
+  artifactKey: Guid(e89d55dfb0b7bab4dac674275ef32613) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2DGamekit/Prefabs/Interactables/PassThroughPlatform.prefab using Guid(e89d55dfb0b7bab4dac674275ef32613) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c80145d7d7f94c54c8452a9b8715f439') in 0.152936 seconds
+  Import took 0.155532 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000214 seconds.
+  path: Assets/2DGamekit/Prefabs/SceneControl/SceneController.prefab
+  artifactKey: Guid(06c5c56d99c9e194db056e41d8b8f99b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2DGamekit/Prefabs/SceneControl/SceneController.prefab using Guid(06c5c56d99c9e194db056e41d8b8f99b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c999a59dcc3fd7232b0a910b324459be') in 0.003597 seconds
+  Import took 0.005737 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000212 seconds.
+  path: Assets/2DGamekit/Prefabs/VFX/Enemies/Spitter/SpitterSpit.prefab
+  artifactKey: Guid(c41384fe176ad434a994a2a22ed8f392) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2DGamekit/Prefabs/VFX/Enemies/Spitter/SpitterSpit.prefab using Guid(c41384fe176ad434a994a2a22ed8f392) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1a2fa73a8c630ebe4ea7eb3abf808276') in 0.003615 seconds
+  Import took 0.005823 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000204 seconds.
+  path: Assets/2DGamekit/Prefabs/Enemies/Spitter.prefab
+  artifactKey: Guid(6fc2e0a5f8f54a7499632d26ee58a344) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2DGamekit/Prefabs/Enemies/Spitter.prefab using Guid(6fc2e0a5f8f54a7499632d26ee58a344) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '91e9c73535fd13777ba9308baaec3d6a') in 0.014468 seconds
+  Import took 0.017078 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000257 seconds.
+  path: Assets/2DGamekit/Prefabs/Utilities/SpitterSpitPool.prefab
+  artifactKey: Guid(668940f422f1b1c458f0b6b36ba7de9e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2DGamekit/Prefabs/Utilities/SpitterSpitPool.prefab using Guid(668940f422f1b1c458f0b6b36ba7de9e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cf9c24cd6db9777592957d39b5a61557') in 0.005778 seconds
+  Import took 0.008183 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000260 seconds.
+  path: Assets/2DGamekit/Prefabs/Interactables/Key.prefab
+  artifactKey: Guid(93f15056a62b79346aafa55805de2b33) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2DGamekit/Prefabs/Interactables/Key.prefab using Guid(93f15056a62b79346aafa55805de2b33) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '58e82a89321d70999729499de3001b79') in 0.035848 seconds
+  Import took 0.038358 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000217 seconds.
+  path: Assets/2DGamekit/Prefabs/Interactables/InfoPost.prefab
+  artifactKey: Guid(6bc0b2bb61623f94aa335ee8a769a8f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2DGamekit/Prefabs/Interactables/InfoPost.prefab using Guid(6bc0b2bb61623f94aa335ee8a769a8f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ff676f95b60e0a04cebc48b3b867a447') in 0.020954 seconds
+  Import took 0.023487 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000202 seconds.
+  path: Assets/2DGamekit/Prefabs/VFX/Ellen/StaffSwish.prefab
+  artifactKey: Guid(c2ca09eb4f39b584997e1c60b92d6af9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2DGamekit/Prefabs/VFX/Ellen/StaffSwish.prefab using Guid(c2ca09eb4f39b584997e1c60b92d6af9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '224120fdfb90963e05805b254a7fd32c') in 0.003747 seconds
+  Import took 0.005867 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000206 seconds.
+  path: Assets/2DGamekit/Prefabs/Interactables/MovingPlatform.prefab
+  artifactKey: Guid(f9663778c0da693408f8cf4c13bc051a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2DGamekit/Prefabs/Interactables/MovingPlatform.prefab using Guid(f9663778c0da693408f8cf4c13bc051a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a91ca674c62478dee5115001ed85e282') in 0.013747 seconds
+  Import took 0.016365 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000262 seconds.
+  path: Assets/2DGamekit/Prefabs/VFX/Interactables/PickUpEffect.prefab
+  artifactKey: Guid(5a4dedcc0d105f34da4eed8c2a3f3f67) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2DGamekit/Prefabs/VFX/Interactables/PickUpEffect.prefab using Guid(5a4dedcc0d105f34da4eed8c2a3f3f67) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '76c19ba2f76f65884743ca86ce3fa5b5') in 0.004057 seconds
+  Import took 0.006508 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000263 seconds.
+  path: Assets/2DGamekit/Prefabs/UIPrefabs/PanelCanvas.prefab
+  artifactKey: Guid(2208ab824ba66ab4eaafed9162a13177) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2DGamekit/Prefabs/UIPrefabs/PanelCanvas.prefab using Guid(2208ab824ba66ab4eaafed9162a13177) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '15183096d43022a97047ba9a6269b39e') in 0.023875 seconds
+  Import took 0.026192 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000218 seconds.
+  path: Assets/2DGamekit/Prefabs/Interactables/PressurePad.prefab
+  artifactKey: Guid(daebb73bab52a3b4d8eab37c26a8a62f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2DGamekit/Prefabs/Interactables/PressurePad.prefab using Guid(daebb73bab52a3b4d8eab37c26a8a62f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '61a5fd3be6afb4fa84ba1e238ca31209') in 0.013752 seconds
+  Import took 0.016367 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000223 seconds.
+  path: Assets/2DGamekit/Prefabs/Interactables/PushableBox.prefab
+  artifactKey: Guid(afbffe7f4d780a848bb3211bd9c32278) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2DGamekit/Prefabs/Interactables/PushableBox.prefab using Guid(afbffe7f4d780a848bb3211bd9c32278) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c9787f59536963682c2112ad553ebf46') in 0.014270 seconds
+  Import took 0.017044 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000214 seconds.
+  path: Assets/2DGamekit/Prefabs/UIPrefabs/HealthIcon.prefab
+  artifactKey: Guid(5e2d966f076c6144ba1b3f112e14ede1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2DGamekit/Prefabs/UIPrefabs/HealthIcon.prefab using Guid(5e2d966f076c6144ba1b3f112e14ede1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bcf01b056e26eb40dce26d9c80812ca6') in 0.003946 seconds
+  Import took 0.006325 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000219 seconds.
+  path: Assets/2DGamekit/Prefabs/Utilities/PhysicsHelper.prefab
+  artifactKey: Guid(5e97833b7c43abc418eeee08d291ea3f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2DGamekit/Prefabs/Utilities/PhysicsHelper.prefab using Guid(5e97833b7c43abc418eeee08d291ea3f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8e2f77a3720f961641e9ee3932882473') in 0.004165 seconds
+  Import took 0.006335 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000206 seconds.
+  path: Assets/2DGamekit/Prefabs/Interactables/SingleUseSwitch.prefab
+  artifactKey: Guid(7da6a32167f5e2948a425959d1ea2014) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2DGamekit/Prefabs/Interactables/SingleUseSwitch.prefab using Guid(7da6a32167f5e2948a425959d1ea2014) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ced46210fa79bf2a17c06835dcfd74e6') in 0.018635 seconds
+  Import took 0.021345 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000216 seconds.
+  path: Assets/2DGamekit/Prefabs/VFX/Environment/Steam.prefab
+  artifactKey: Guid(0f7bda6c318b58640bc5e5535cef046a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2DGamekit/Prefabs/VFX/Environment/Steam.prefab using Guid(0f7bda6c318b58640bc5e5535cef046a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8976dd00d220693b477795c9562b2b1f') in 0.004526 seconds
+  Import took 0.006841 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000265 seconds.
+  path: Assets/2DGamekit/Prefabs/Interactables/ReusableSwitch.prefab
+  artifactKey: Guid(40cc899f594768746b6d70b3f2530c2e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2DGamekit/Prefabs/Interactables/ReusableSwitch.prefab using Guid(40cc899f594768746b6d70b3f2530c2e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dc4f6850153412a31bdc2fbf9cb3e717') in 0.009085 seconds
+  Import took 0.011390 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000268 seconds.
+  path: Assets/2DGamekit/Prefabs/Interactables/PassThroughPlatformLong.prefab
+  artifactKey: Guid(599bf135fc0648043bfa32dcd1e26d86) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2DGamekit/Prefabs/Interactables/PassThroughPlatformLong.prefab using Guid(599bf135fc0648043bfa32dcd1e26d86) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1bba31f1653df1d6583b1066abe31dbf') in 0.012376 seconds
+  Import took 0.014975 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000282 seconds.
+  path: Assets/2DGamekit/Prefabs/Utilities/Localizer.prefab
+  artifactKey: Guid(c4265b110bb2c484e9f7130b2e605218) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2DGamekit/Prefabs/Utilities/Localizer.prefab using Guid(c4265b110bb2c484e9f7130b2e605218) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '519bfd9ff7fe2bb5d68f14883f9c6e1b') in 0.004544 seconds
+  Import took 0.006850 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000262 seconds.
+  path: Assets/2DGamekit/Prefabs/Utilities/ObjectPositionResetter.prefab
+  artifactKey: Guid(e6a7390a68a87cc44bf2d5eae1fc46d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2DGamekit/Prefabs/Utilities/ObjectPositionResetter.prefab using Guid(e6a7390a68a87cc44bf2d5eae1fc46d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0ff65c47380ff64be3cedd699c68d734') in 0.003527 seconds
+  Import took 0.005690 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000236 seconds.
+  path: Assets/2DGamekit/Prefabs/VFX/Ellen/JumpPuff.prefab
+  artifactKey: Guid(7ff0708625eb73d4080bdb1316d063f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2DGamekit/Prefabs/VFX/Ellen/JumpPuff.prefab using Guid(7ff0708625eb73d4080bdb1316d063f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9036c720c26566eab4ec6f96a8290485') in 0.003598 seconds
+  Import took 0.005895 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000261 seconds.
+  path: Assets/2DGamekit/Prefabs/VFX/Ellen/JumpEffect.prefab
+  artifactKey: Guid(7e73f509e566c5b4f84c4fe249de14d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2DGamekit/Prefabs/VFX/Ellen/JumpEffect.prefab using Guid(7e73f509e566c5b4f84c4fe249de14d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '30b3fa11202d4b8d1f6ad35215828e28') in 0.003669 seconds
+  Import took 0.005916 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000181 seconds.
+  path: Assets/2DGamekit/Prefabs/SceneControl/SpawnManagerWrapper.prefab
+  artifactKey: Guid(c0349e06831df0a4a93d468c308dc3d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2DGamekit/Prefabs/SceneControl/SpawnManagerWrapper.prefab using Guid(c0349e06831df0a4a93d468c308dc3d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6d899eca29459b1f819f1097c2bba0ef') in 0.003383 seconds
+  Import took 0.006055 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000238 seconds.
+  path: Assets/2DGamekit/Prefabs/Interactables/MovingPlatformlong.prefab
+  artifactKey: Guid(75c2b6a66ee2dfe4b9f818176a33f456) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2DGamekit/Prefabs/Interactables/MovingPlatformlong.prefab using Guid(75c2b6a66ee2dfe4b9f818176a33f456) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c8f0ef6d597e52fa43e2e3699c0b5fc1') in 0.007181 seconds
+  Import took 0.009825 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000267 seconds.
+  path: Assets/2DGamekit/Prefabs/SceneControl/ScreenFader.prefab
+  artifactKey: Guid(12c2177bf06bbee44b65f5e185b2216f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2DGamekit/Prefabs/SceneControl/ScreenFader.prefab using Guid(12c2177bf06bbee44b65f5e185b2216f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e5c8e879b1c480e97d0c30218729d7a6') in 0.005488 seconds
+  Import took 0.007755 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000238 seconds.
+  path: Assets/2DGamekit/Prefabs/VFX/Ellen/RespawnEffect.prefab
+  artifactKey: Guid(960671438a9b3af448a47e937861e099) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2DGamekit/Prefabs/VFX/Ellen/RespawnEffect.prefab using Guid(960671438a9b3af448a47e937861e099) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4958034cfb0446ac728450a268d6ee31') in 0.003815 seconds
+  Import took 0.006546 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000234 seconds.
+  path: Assets/2DGamekit/Prefabs/VFX/Enemies/Gunner/GunnerUpBeamEffect.prefab
+  artifactKey: Guid(9900d904a54f7f2478123cb690ab35a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2DGamekit/Prefabs/VFX/Enemies/Gunner/GunnerUpBeamEffect.prefab using Guid(9900d904a54f7f2478123cb690ab35a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '84c5bd4cb849f1c143a764f5c3d597e6') in 0.005363 seconds
+  Import took 0.008295 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000276 seconds.
+  path: Assets/2DGamekit/Prefabs/VFX/Enemies/Gunner/LightningFloor.prefab
+  artifactKey: Guid(790785ce1430b304194fd6139de35800) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2DGamekit/Prefabs/VFX/Enemies/Gunner/LightningFloor.prefab using Guid(790785ce1430b304194fd6139de35800) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fab17aa1ede63b11924224279cd9e422') in 0.010473 seconds
+  Import took 0.013150 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000216 seconds.
+  path: Assets/2DGamekit/Prefabs/MainCamera.prefab
+  artifactKey: Guid(bb0018ce3a8caa643b44f8487c34bd25) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2DGamekit/Prefabs/MainCamera.prefab using Guid(bb0018ce3a8caa643b44f8487c34bd25) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ac35ef2fc66755cd69a5890b4baec1d3') in 0.012015 seconds
+  Import took 0.014644 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000190 seconds.
+  path: Assets/2DGamekit/Prefabs/VFX/Interactables/PlatformCircleEffect.prefab
+  artifactKey: Guid(a8ee876fba0908d44b68aaaecca8a4e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2DGamekit/Prefabs/VFX/Interactables/PlatformCircleEffect.prefab using Guid(a8ee876fba0908d44b68aaaecca8a4e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'be81efbf10f021f1278a704cf01f72b4') in 0.004173 seconds
+  Import took 0.007276 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000259 seconds.
+  path: Assets/2DGamekit/Prefabs/UIPrefabs/KeyCanvas.prefab
+  artifactKey: Guid(683597be51f41bb4cbba59294cae8b30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2DGamekit/Prefabs/UIPrefabs/KeyCanvas.prefab using Guid(683597be51f41bb4cbba59294cae8b30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '29c586639ceae73adbb4cf0fab9940e0') in 0.004188 seconds
+  Import took 0.006431 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000266 seconds.
+  path: Assets/2DGamekit/Prefabs/UIPrefabs/LoadingCanvas.prefab
+  artifactKey: Guid(83d0619896c6b844c852388c2502727f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2DGamekit/Prefabs/UIPrefabs/LoadingCanvas.prefab using Guid(83d0619896c6b844c852388c2502727f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '091237b31ba956ecd943394b24a4bf99') in 0.003989 seconds
+  Import took 0.006348 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000269 seconds.
+  path: Assets/2DGamekit/Prefabs/Environment/Spikes.prefab
+  artifactKey: Guid(4ff9f7a332b4ae44bb62aaee6eacc033) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2DGamekit/Prefabs/Environment/Spikes.prefab using Guid(4ff9f7a332b4ae44bb62aaee6eacc033) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5a4299a6128bed2694d3c96010998f10') in 0.012827 seconds
+  Import took 0.015381 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000216 seconds.
+  path: Assets/2DGamekit/Prefabs/UIPrefabs/OptionsCanvas.prefab
+  artifactKey: Guid(28fdaedf686cb394ba208418f1942254) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2DGamekit/Prefabs/UIPrefabs/OptionsCanvas.prefab using Guid(28fdaedf686cb394ba208418f1942254) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2cd2dd6f75f7857daedc93e5de6e2ef6') in 0.036012 seconds
+  Import took 0.039602 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000265 seconds.
+  path: Assets/2DGamekit/Prefabs/VFX/Ellen/StaffSwishAirborne.prefab
+  artifactKey: Guid(0576e4604c516d2419ee67c0cadec118) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2DGamekit/Prefabs/VFX/Ellen/StaffSwishAirborne.prefab using Guid(0576e4604c516d2419ee67c0cadec118) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fc820fa18eaa0557dfc3a9cbd4a1030a') in 0.003863 seconds
+  Import took 0.006223 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000293 seconds.
+  path: Assets/2DGamekit/Prefabs/UIPrefabs/HealthCanvas.prefab
+  artifactKey: Guid(2d2745d2a8668e644a921a4848c9bc90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2DGamekit/Prefabs/UIPrefabs/HealthCanvas.prefab using Guid(2d2745d2a8668e644a921a4848c9bc90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5947dea2374fed22ad31f86bf3b047d5') in 0.004815 seconds
+  Import took 0.007188 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000197 seconds.
+  path: Assets/2DGamekit/Prefabs/VFX/Enemies/Spitter/SpitProjectille.prefab
+  artifactKey: Guid(7a9b8f4adaceb7d469f3f02edc8472d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2DGamekit/Prefabs/VFX/Enemies/Spitter/SpitProjectille.prefab using Guid(7a9b8f4adaceb7d469f3f02edc8472d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5d09174afe5e95e2a0cd80fa523f8518') in 0.064314 seconds
+  Import took 0.066896 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000290 seconds.
+  path: Assets/2DGamekit/Prefabs/Interactables/HealthPickup.prefab
+  artifactKey: Guid(6ce14eb040a43734b9fb27d9a62d91ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2DGamekit/Prefabs/Interactables/HealthPickup.prefab using Guid(6ce14eb040a43734b9fb27d9a62d91ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd5ce604431d6e8aba68949e5ac671488') in 0.072720 seconds
+  Import took 0.076128 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000219 seconds.
+  path: Assets/2DGamekit/Prefabs/Interactables/Teleporter.prefab
+  artifactKey: Guid(ea040a76895f65745899f41e3dff6aeb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2DGamekit/Prefabs/Interactables/Teleporter.prefab using Guid(ea040a76895f65745899f41e3dff6aeb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dc77237521d995542df4c79846417a92') in 0.014087 seconds
+  Import took 0.016625 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000188 seconds.
+  path: Assets/2DGamekit/Prefabs/VFX/Environment/Puff.prefab
+  artifactKey: Guid(fcad5e11c16c37d4597d0bd76bcaf252) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2DGamekit/Prefabs/VFX/Environment/Puff.prefab using Guid(fcad5e11c16c37d4597d0bd76bcaf252) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '775eb6fed4c8dc5b00fb87a78dfc7b92') in 0.007127 seconds
+  Import took 0.012626 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000314 seconds.
+  path: Assets/2DGamekit/Prefabs/VFX/Interactables/HealingGlobe.prefab
+  artifactKey: Guid(a143bc5e08fd214439e68f9541e16066) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2DGamekit/Prefabs/VFX/Interactables/HealingGlobe.prefab using Guid(a143bc5e08fd214439e68f9541e16066) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4fe2b44266cc290260aef5f9d564b6cb') in 0.042333 seconds
+  Import took 0.045836 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000202 seconds.
+  path: Assets/2DGamekit/Prefabs/Utilities/SplashSoundPlayer.prefab
+  artifactKey: Guid(a7584c3225fcd2a4191583462325ef39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2DGamekit/Prefabs/Utilities/SplashSoundPlayer.prefab using Guid(a7584c3225fcd2a4191583462325ef39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd58914e1f22607bbde6b5dce1465f147') in 0.004495 seconds
+  Import took 0.006827 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000222 seconds.
+  path: Assets/2DGamekit/Prefabs/VFX/Environment/LightShafts.prefab
+  artifactKey: Guid(3a492dd3fad5930408af4662b7da6f80) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2DGamekit/Prefabs/VFX/Environment/LightShafts.prefab using Guid(3a492dd3fad5930408af4662b7da6f80) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '83cac664c6a29af90746727872366f3c') in 0.003867 seconds
+  Import took 0.006157 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 16.768562 seconds.
+  path: Assets/2DGamekit/Scripts/AI
+  artifactKey: Guid(a4512e3eb42dc4cbfb4dbd64d0f24790) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2DGamekit/Scripts/AI using Guid(a4512e3eb42dc4cbfb4dbd64d0f24790) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8998550c784f1f5a64827b86c19e3989') in 0.001931 seconds
+  Import took 0.004260 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.005735 seconds.
+  path: Assets/2DGamekit/Scripts/AI
+  artifactKey: Guid(a4512e3eb42dc4cbfb4dbd64d0f24790) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2DGamekit/Scripts/AI using Guid(a4512e3eb42dc4cbfb4dbd64d0f24790) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8998550c784f1f5a64827b86c19e3989') in 0.001774 seconds
+  Import took 0.004206 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.577224 seconds.
+  path: Assets/2DGamekit/Scripts/AI/BT.cs
+  artifactKey: Guid(40ccaac2b2a3342edbc299d2be2c9f3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2DGamekit/Scripts/AI/BT.cs using Guid(40ccaac2b2a3342edbc299d2be2c9f3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a59f7389e18c988ddb2038bd9b468bae') in 0.013078 seconds
+  Import took 0.015511 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 110.812236 seconds.
+  path: Assets/2DGamekit/Scripts/AI/SendSignal.cs
+  artifactKey: Guid(c381bbe1f187e4c01b1e62b740cf0f39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2DGamekit/Scripts/AI/SendSignal.cs using Guid(c381bbe1f187e4c01b1e62b740cf0f39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7c56c1593daf020191621ee2ef13a3e7') in 0.002744 seconds
+  Import took 0.005463 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000899 seconds.
+  path: Assets/2DGamekit/Scripts/AI/SendSignal.cs
+  artifactKey: Guid(c381bbe1f187e4c01b1e62b740cf0f39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2DGamekit/Scripts/AI/SendSignal.cs using Guid(c381bbe1f187e4c01b1e62b740cf0f39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7c56c1593daf020191621ee2ef13a3e7') in 0.001869 seconds
+  Import took 0.004312 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.960067 seconds.
+  path: Assets/2DGamekit/Scripts/AI/MissileGolem.cs
+  artifactKey: Guid(9f3e6e784bd7045b98c806d4665dcbbe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2DGamekit/Scripts/AI/MissileGolem.cs using Guid(9f3e6e784bd7045b98c806d4665dcbbe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '04606ff3a82cf45061fc84b294cb552a') in 0.001937 seconds
+  Import took 0.004454 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.007277 seconds.
+  path: Assets/2DGamekit/Scripts/AI/MissileGolem.cs
+  artifactKey: Guid(9f3e6e784bd7045b98c806d4665dcbbe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2DGamekit/Scripts/AI/MissileGolem.cs using Guid(9f3e6e784bd7045b98c806d4665dcbbe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '04606ff3a82cf45061fc84b294cb552a') in 0.001728 seconds
+  Import took 0.004321 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 12.421594 seconds.
+  path: Assets/2DGamekit/Scripts/AI/InstantiateObject.cs
+  artifactKey: Guid(50fbe2886caae46c7918ca00e65f2c96) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2DGamekit/Scripts/AI/InstantiateObject.cs using Guid(50fbe2886caae46c7918ca00e65f2c96) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ef57ad9e9e80a96fc5be9aeded92e38f') in 0.001899 seconds
+  Import took 0.004416 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 112.064279 seconds.
+  path: Assets/2DGamekit/Scripts/AI/GunnerBeamController.cs
+  artifactKey: Guid(572cff7f64f494cd386550eec2fd9976) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2DGamekit/Scripts/AI/GunnerBeamController.cs using Guid(572cff7f64f494cd386550eec2fd9976) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3134d452a9c56699a6fb0ea5069974c8') in 0.002726 seconds
+  Import took 0.005103 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 16.218126 seconds.
+  path: Assets/2DGamekit/Scripts/AI/MissileGolem.cs
+  artifactKey: Guid(9f3e6e784bd7045b98c806d4665dcbbe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2DGamekit/Scripts/AI/MissileGolem.cs using Guid(9f3e6e784bd7045b98c806d4665dcbbe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1f2643ea65648afd53f50501b7219389') in 0.003263 seconds
+  Import took 0.005836 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000862 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for Lumin target not found
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.40 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.780 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.43 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1633 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 83.5 MB.
+System memory in use after: 82.0 MB.
+
+Unloading 26 unused Assets to reduce memory usage. Loaded Objects now: 2118.
+Total: 2.438500 ms (FindLiveObjects: 0.198500 ms CreateObjectMapping: 0.051600 ms MarkObjects: 1.479000 ms  DeleteObjects: 0.708000 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 14.116423 seconds.
+  path: Assets/2DGamekit/Scripts/AI/GunnerProjectile.cs
+  artifactKey: Guid(62ea6cfe8534042f28f9f339c3e3d60c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2DGamekit/Scripts/AI/GunnerProjectile.cs using Guid(62ea6cfe8534042f28f9f339c3e3d60c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '31142cbe969266395d36530541e434b5') in 0.003898 seconds
+  Import took 0.006536 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001035 seconds.
+  path: Assets/2DGamekit/Scripts/AI/GunnerProjectile.cs
+  artifactKey: Guid(62ea6cfe8534042f28f9f339c3e3d60c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2DGamekit/Scripts/AI/GunnerProjectile.cs using Guid(62ea6cfe8534042f28f9f339c3e3d60c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '31142cbe969266395d36530541e434b5') in 0.001770 seconds
+  Import took 0.004026 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 47.217266 seconds.
+  path: Assets/2DGamekit/Scripts/AI/TEST.cs
+  artifactKey: Guid(fbcf257415dab2047bc6eee84fdba0c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2DGamekit/Scripts/AI/TEST.cs using Guid(fbcf257415dab2047bc6eee84fdba0c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f6e89ed5d7be92f914a8e279e4399240') in 0.005956 seconds
+  Import took 0.008469 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000922 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for Lumin target not found
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.41 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.788 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.68 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1631 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 83.3 MB.
+System memory in use after: 81.7 MB.
+
+Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 2122.
+Total: 2.525400 ms (FindLiveObjects: 0.182700 ms CreateObjectMapping: 0.049600 ms MarkObjects: 1.538200 ms  DeleteObjects: 0.753600 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000892 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for Lumin target not found
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.40 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.725 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.41 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1631 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 83.3 MB.
+System memory in use after: 81.7 MB.
+
+Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 2125.
+Total: 2.358300 ms (FindLiveObjects: 0.167000 ms CreateObjectMapping: 0.038500 ms MarkObjects: 1.373300 ms  DeleteObjects: 0.777700 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 1228.935240 seconds.
+  path: Assets/2DGamekit/Scripts/AI/TEST.cs
+  artifactKey: Guid(fbcf257415dab2047bc6eee84fdba0c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2DGamekit/Scripts/AI/TEST.cs using Guid(fbcf257415dab2047bc6eee84fdba0c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '46248270acdd74e89be6cc0c9d827295') in 0.003634 seconds
+  Import took 0.005854 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000879 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for Lumin target not found
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.42 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.723 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.41 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1631 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 83.3 MB.
+System memory in use after: 81.7 MB.
+
+Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 2128.
+Total: 2.650500 ms (FindLiveObjects: 0.183000 ms CreateObjectMapping: 0.053600 ms MarkObjects: 1.632100 ms  DeleteObjects: 0.780600 ms)
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
