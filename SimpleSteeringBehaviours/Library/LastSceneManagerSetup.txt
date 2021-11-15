@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/scenes/simple_ai_steering.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
