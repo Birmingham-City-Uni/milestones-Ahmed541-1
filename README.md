@@ -1,3 +1,6 @@
+By doing the steering behaviour lab I worked on the "How far to look ahead" this helped me realise how realistic movement AI can become. So instead of having a constant value you can use distance, Time to target and speed based variables to see how far you want your AI to look ahead.I have also learnt about the seek limitations as seek always move to target with max acceleration so by reducing speed when it gets closer to target, this makes it stop doing the spiral movement around target. Seek and flee, pursue and evade are all things I understand how to use now including arrival so I will look to try to learn about Wander and implement this in the steering behaviour lab.
+
+
 By doing the BFS and DFS lab it really helped me understand the concept. I learn more by visually so by seeing what the code and theory is doing I can have good grasp on the topic. The implementaion has helped me understand that it really isnt hard to implement the pseudo code and there is not much difference between the two. DFS is a stack and BFS is queue.
 
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-f059dc9a6f8d3a56e377f745f24479a46679e63a5d9fe6f495e02850cd0d8118.svg)](https://classroom.github.com/online_ide?assignment_repo_id=5736631&assignment_repo_type=AssignmentRepo)
